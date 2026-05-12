@@ -52,7 +52,7 @@ st.markdown("""
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('/home/ubuntu/academic_journey_dataset.csv')
+    df = pd.read_csv('academic_journey_dataset.csv')
     df['Date'] = pd.to_datetime(df['Date'])
     return df
 

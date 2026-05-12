@@ -95,10 +95,10 @@ selected_semester = st.sidebar.multiselect(
     default=df['Semester'].unique()
 )
 
-exam_period_filter = st.sidebar.multiselect(
-    "Exam Period",
-    options=df['Exam_Period'].unique(),
-    default=df['Exam_Period'].unique()
+exam_status_filter = st.sidebar.multiselect(
+    "Exam Status",
+    options=df['Exam_Status'].unique(),
+    default=df['Exam_Status'].unique()
 )
 
 stress_range = st.sidebar.slider(
@@ -111,7 +111,7 @@ stress_range = st.sidebar.slider(
 # Apply filters
 filtered_df = df[
     (df['Semester'].isin(selected_semester)) &
-    (df['Exam_Period'].isin(exam_period_filter)) &
+    (df['Exam_Status'].isin(exam_status_filter)) &
     (df['Stress_Level'] >= stress_range[0]) &
     (df['Stress_Level'] <= stress_range[1])
 ]
@@ -177,7 +177,7 @@ if page == "📖 Story Overview":
     with col3:
         st.markdown("""
         ### Key Questions
-        1. What habits improve my academic performance?
+        1. What habits improves my academic performance?
         2. What is the trade-off between stress and productivity?
         3. How does sleep affect my exam performance?
         4. Can I replicate finals-level focus earlier?
@@ -255,7 +255,7 @@ elif page == "📊 Data Visualizations":
     st.subheader("2️⃣ Stress Level vs Productivity Level")
     fig2 = px.scatter(
         filtered_df, x='Stress_Level', y='Productivity_Level',
-        color='Exam_Period', size='Study_Hours',
+        color='Exam_Status', size='Study_Hours',
         hover_data=['Date', 'Sleep_Hours'],
         title="Stress vs Productivity — The Paradox",
         labels={'Stress_Level': 'Stress Level (1–5)', 'Productivity_Level': 'Productivity (1–5)'},
@@ -586,7 +586,7 @@ elif page == "🔍 Data Explorer":
     if x_axis != y_axis:
         fig = px.scatter(
             filtered_df, x=x_axis, y=y_axis,
-            color='Exam_Period',
+            color='Exam_Status',
             size='Study_Hours' if 'Study_Hours' in filtered_df.columns else None,
             hover_data=['Date'],
             title=f"{y_axis} vs {x_axis}",

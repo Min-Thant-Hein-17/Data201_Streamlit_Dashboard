@@ -1,0 +1,244 @@
+Date,Semester,Course_Load,Study_Hours,Sleep_Hours,Stress_Level,Productivity_Level,Assignment_Score,Exam_Status,Is_Weekend,Notes
+09/01/2025,Fall 2025,3,6,8,2,3,85,,FALSE,Start of semester
+09/02/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/03/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/04/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/05/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+09/06/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+09/07/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+09/08/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/09/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/10/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/11/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/12/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/13/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+09/14/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+09/15/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/16/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/17/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/18/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/19/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/20/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+09/21/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+09/22/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/23/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/24/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/25/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/26/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/27/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+09/28/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+09/29/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+09/30/2025,Fall 2025,3,6,8,2,3,85,,FALSE,
+10/01/2025,Fall 2025,3,7,8,3,3,80,,FALSE,
+10/02/2025,Fall 2025,3,7,8,3,3,80,,FALSE,
+10/03/2025,Fall 2025,3,7,8,3,3,80,,FALSE,
+10/04/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+10/05/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+10/06/2025,Fall 2025,3,7,8,3,3,80,,FALSE,
+10/07/2025,Fall 2025,3,7,8,3,3,80,,FALSE,
+10/08/2025,Fall 2025,3,7,8,3,3,80,,FALSE,
+10/09/2025,Fall 2025,3,7,8,3,3,80,,FALSE,
+10/10/2025,Fall 2025,3,7,8,3,3,80,,FALSE,
+10/11/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+10/12/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+10/13/2025,Fall 2025,3,7,8,3,3,80,,FALSE,
+10/14/2025,Fall 2025,3,6,7,3,3,,,TRUE,Pre-midterm weekend study
+10/15/2025,Fall 2025,3,8,7,4,4,75,Midterm,FALSE,Midterm period
+10/16/2025,Fall 2025,3,8,7,4,4,75,Midterm,FALSE,
+10/17/2025,Fall 2025,3,4,8,3,3,,,TRUE,
+10/18/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+10/19/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+10/20/2025,Fall 2025,3,6,8,2,3,,,FALSE,
+10/21/2025,Fall 2025,3,6,8,2,3,,,FALSE,
+10/22/2025,Fall 2025,3,6,8,2,3,,,FALSE,
+10/23/2025,Fall 2025,3,6,8,2,3,,,FALSE,
+10/24/2025,Fall 2025,3,6,8,2,3,,,FALSE,
+10/25/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+10/26/2025,Fall 2025,3,2,8,1,2,,,TRUE,Social media scrolling
+10/27/2025,Fall 2025,3,6,8,2,3,,,FALSE,
+10/28/2025,Fall 2025,3,6,8,2,3,,,FALSE,
+10/29/2025,Fall 2025,3,6,8,2,3,,,FALSE,
+10/30/2025,Fall 2025,3,6,8,2,3,,,FALSE,
+10/31/2025,Fall 2025,3,6,8,2,3,,,FALSE,
+12/01/2025,Fall 2025,3,7,8,3,3,,,FALSE,
+12/02/2025,Fall 2025,3,7,8,3,3,,,FALSE,
+12/03/2025,Fall 2025,3,7,8,3,3,,,FALSE,
+12/04/2025,Fall 2025,3,7,8,3,3,,,FALSE,
+12/05/2025,Fall 2025,3,7,8,3,3,,,FALSE,
+12/06/2025,Fall 2025,3,7,7,4,4,,Final,TRUE,Pre-finals study
+12/07/2025,Fall 2025,3,7,7,4,4,,Final,TRUE,Pre-finals study
+12/08/2025,Fall 2025,3,8,7,4,4,,Final,FALSE,Finals period approaching
+12/09/2025,Fall 2025,3,8,7,4,4,,Final,FALSE,Finals period approaching
+12/10/2025,Fall 2025,3,10,6,5,5,90,Final,FALSE,Finals period
+12/11/2025,Fall 2025,3,10,6,5,5,90,Final,FALSE,
+12/12/2025,Fall 2025,3,8,6,5,5,90,Final,TRUE,Study on weekend during finals
+12/13/2025,Fall 2025,3,8,6,5,5,90,Final,TRUE,Study on weekend during finals
+12/14/2025,Fall 2025,3,8,6,5,5,90,Final,TRUE,Study on weekend during finals
+12/15/2025,Fall 2025,3,10,6,5,5,90,Final,FALSE,
+12/16/2025,Fall 2025,3,10,6,5,5,90,Final,FALSE,
+12/17/2025,Fall 2025,3,10,6,5,5,90,Final,FALSE,
+12/18/2025,Fall 2025,3,10,6,5,5,90,Final,FALSE,
+12/19/2025,Fall 2025,3,10,6,5,5,90,Final,FALSE,
+12/20/2025,Fall 2025,3,8,6,5,5,90,Final,TRUE,Study on weekend during finals
+12/21/2025,Fall 2025,3,2,9,1,2,,,TRUE,Winter break
+12/22/2025,Fall 2025,3,3,9,1,2,,,FALSE,
+12/23/2025,Fall 2025,3,3,9,1,2,,,FALSE,
+12/24/2025,Fall 2025,3,3,9,1,2,,,FALSE,
+12/25/2025,Fall 2025,3,3,9,1,2,,,FALSE,
+12/26/2025,Fall 2025,3,3,9,1,2,,,FALSE,
+12/27/2025,Fall 2025,3,2,9,1,2,,,TRUE,
+12/28/2025,Fall 2025,3,2,9,1,2,,,TRUE,
+12/29/2025,Fall 2025,3,3,9,1,2,,,FALSE,
+12/30/2025,Fall 2025,3,3,9,1,2,,,FALSE,
+12/31/2025,Fall 2025,3,3,9,1,2,,,FALSE,
+01/01/2026,Spring 2026,5,7,8,2,3,88,,FALSE,Start of Spring semester - 5 courses + Internship
+01/02/2026,Spring 2026,5,7,8,2,3,88,,FALSE,
+01/03/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+01/04/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+01/05/2026,Spring 2026,5,7,8,2,3,88,,FALSE,
+01/06/2026,Spring 2026,5,7,8,2,3,88,,FALSE,
+01/07/2026,Spring 2026,5,7,8,2,3,88,,FALSE,
+01/08/2026,Spring 2026,5,7,8,2,3,88,,FALSE,
+01/09/2026,Spring 2026,5,7,8,2,3,88,,FALSE,
+01/10/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+01/11/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+01/12/2026,Spring 2026,5,7,8,2,3,88,,FALSE,
+01/13/2026,Spring 2026,5,7,8,2,3,88,,FALSE,
+01/14/2026,Spring 2026,5,7,8,2,3,88,,FALSE,
+01/15/2026,Spring 2026,5,7,8,2,3,88,,FALSE,Start of Spring semester - 5 courses + Internship
+01/16/2026,Spring 2026,5,7,8,2,3,88,,FALSE,
+01/17/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+01/18/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+01/19/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+01/20/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+01/21/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+01/22/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+01/23/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+01/24/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+01/25/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+01/26/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+01/27/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+01/28/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+01/29/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+01/30/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+01/31/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+02/01/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+02/02/2026,Spring 2026,5,7,8,2,3,85,,FALSE,
+02/03/2026,Spring 2026,5,7,8,2,3,85,,FALSE,
+02/04/2026,Spring 2026,5,7,8,2,3,85,,FALSE,
+02/05/2026,Spring 2026,5,7,8,2,3,85,,FALSE,
+02/06/2026,Spring 2026,5,7,8,2,3,85,,FALSE,
+02/07/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+02/08/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+02/09/2026,Spring 2026,5,7,8,2,3,85,,FALSE,
+02/10/2026,Spring 2026,5,7,8,2,3,85,,FALSE,
+02/11/2026,Spring 2026,5,7,8,2,3,85,,FALSE,
+02/12/2026,Spring 2026,5,7,8,2,3,85,,FALSE,
+02/13/2026,Spring 2026,5,7,8,2,3,85,,FALSE,
+02/14/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+02/15/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+02/16/2026,Spring 2026,5,8,8,3,3,82,,FALSE,
+02/17/2026,Spring 2026,5,8,8,3,3,82,,FALSE,
+02/18/2026,Spring 2026,5,8,8,3,3,82,,FALSE,
+02/19/2026,Spring 2026,5,8,8,3,3,82,,FALSE,
+02/20/2026,Spring 2026,5,8,8,3,3,82,,FALSE,
+02/21/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+02/22/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+02/23/2026,Spring 2026,5,8,8,3,3,82,,FALSE,
+02/24/2026,Spring 2026,5,8,8,3,3,82,,FALSE,
+02/25/2026,Spring 2026,5,8,8,3,3,82,,FALSE,
+02/26/2026,Spring 2026,5,8,8,3,3,82,,FALSE,
+02/27/2026,Spring 2026,5,8,8,3,3,82,,FALSE,
+02/28/2026,Spring 2026,5,2,8,1,2,,,TRUE,Social media scrolling
+03/01/2026,Spring 2026,5,3,8,2,3,,,TRUE,
+03/02/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+03/03/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+03/04/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+03/05/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+03/06/2026,Spring 2026,5,7,8,2,3,,,FALSE,
+03/07/2026,Spring 2026,5,3,8,3,3,,,TRUE,
+03/08/2026,Spring 2026,5,3,7,3,3,,,TRUE,
+03/09/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+03/10/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+03/11/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+03/12/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+03/13/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+03/14/2026,Spring 2026,5,3,7,4,3,,,TRUE,
+03/15/2026,Spring 2026,5,9,6,5,4,70,Midterm,FALSE,Midterm period - High stress
+03/16/2026,Spring 2026,5,9,6,5,4,70,Midterm,FALSE,
+03/17/2026,Spring 2026,5,9,6,5,4,70,Midterm,FALSE,
+03/18/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+03/19/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+03/20/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+03/21/2026,Spring 2026,5,2,7,3,3,,,TRUE,Social media scrolling
+03/22/2026,Spring 2026,5,2,7,3,3,,,TRUE,Social media scrolling
+03/23/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+03/24/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+03/25/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+03/26/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+03/27/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+03/28/2026,Spring 2026,5,2,7,3,3,,,TRUE,Social media scrolling
+03/29/2026,Spring 2026,5,2,7,3,3,,,TRUE,Social media scrolling
+03/30/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+03/31/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+04/01/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+04/02/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+04/03/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+04/04/2026,Spring 2026,5,3,7,2,3,,,TRUE,Social media scrolling
+04/05/2026,Spring 2026,5,3,7,2,3,,,TRUE,Social media scrolling
+04/06/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+04/07/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+04/08/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+04/09/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+04/10/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+04/11/2026,Spring 2026,5,3,7,2,3,,,TRUE,Social media scrolling
+04/12/2026,Spring 2026,5,3,7,2,3,,,TRUE,Social media scrolling
+04/13/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+04/14/2026,Spring 2026,5,8,7,3,3,,,FALSE,
+04/15/2026,Spring 2026,5,9,7,4,4,,,FALSE,Building toward finals
+04/16/2026,Spring 2026,5,9,7,4,4,,,FALSE,
+04/17/2026,Spring 2026,5,9,7,4,4,,,FALSE,
+04/18/2026,Spring 2026,5,5,7,3,3,,,TRUE,Pre-finals weekend study
+04/19/2026,Spring 2026,5,5,7,3,3,,,TRUE,Pre-finals weekend study
+04/20/2026,Spring 2026,5,9,7,4,4,,,FALSE,
+04/21/2026,Spring 2026,5,9,7,4,4,,,FALSE,
+04/22/2026,Spring 2026,5,9,7,4,4,,,FALSE,
+04/23/2026,Spring 2026,5,9,7,4,4,,,FALSE,
+04/24/2026,Spring 2026,5,9,7,4,4,,,FALSE,
+04/25/2026,Spring 2026,5,5,7,3,3,,,TRUE,Pre-finals weekend study
+04/26/2026,Spring 2026,5,5,7,3,3,,,TRUE,Pre-finals weekend study
+04/27/2026,Spring 2026,5,9,7,4,4,,,FALSE,
+04/28/2026,Spring 2026,5,9,7,4,4,,,FALSE,
+04/29/2026,Spring 2026,5,9,7,4,4,,,FALSE,
+04/30/2026,Spring 2026,5,9,7,4,4,,,FALSE,
+05/01/2026,Spring 2026,5,9,7,4,4,,Final,FALSE,Finals period approaching
+05/02/2026,Spring 2026,5,6,7,4,4,,Final,TRUE,Pre-finals study
+05/03/2026,Spring 2026,5,6,7,4,4,,Final,TRUE,Pre-finals study
+05/04/2026,Spring 2026,5,9,7,4,4,,Final,FALSE,Finals period approaching
+05/05/2026,Spring 2026,5,9,7,4,4,,Final,FALSE,Finals period approaching
+05/06/2026,Spring 2026,5,9,7,4,4,,Final,FALSE,Finals period approaching
+05/07/2026,Spring 2026,5,9,7,4,4,,Final,FALSE,Finals period approaching
+05/08/2026,Spring 2026,5,9,7,4,4,,Final,FALSE,Finals period approaching
+05/09/2026,Spring 2026,5,6,7,4,4,,Final,TRUE,Pre-finals study
+05/10/2026,Spring 2026,5,6,7,4,4,,Final,TRUE,Pre-finals study
+05/11/2026,Spring 2026,5,9,7,4,4,,Final,FALSE,Finals period approaching
+05/12/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,Current Date - Final term period
+05/13/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,
+05/14/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,
+05/15/2026,Spring 2026,5,10,6,5,5,92,Final,TRUE,Finals weekend study
+05/16/2026,Spring 2026,5,10,6,5,5,92,Final,TRUE,Finals weekend study
+05/17/2026,Spring 2026,5,10,6,5,5,92,Final,TRUE,Finals weekend study
+05/18/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,
+05/19/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,
+05/20/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,
+05/21/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,
+05/22/2026,Spring 2026,5,10,6,5,5,92,Final,FALSE,
+05/23/2026,Spring 2026,5,10,6,5,5,92,Final,TRUE,Finals weekend study
+05/24/2026,Spring 2026,5,10,6,5,5,92,Final,TRUE,Finals weekend study
+05/25/2026,Spring 2026,5,12,5,5,5,95,Final,FALSE,Project Submission Deadline
+05/26/2026,Spring 2026,5,10,6,5,5,95,Final,FALSE,
+05/27/2026,Spring 2026,5,10,6,5,5,95,Final,FALSE,
+05/28/2026,Spring 2026,5,10,6,5,5,95,Final,FALSE,
+05/29/2026,Spring 2026,5,10,6,5,5,95,Final,FALSE,
+05/30/2026,Spring 2026,5,8,6,5,5,95,Final,TRUE,Post-deadline finals wrap-up
+05/31/2026,Spring 2026,5,8,6,5,5,95,Final,TRUE,Post-deadline finals wrap-up

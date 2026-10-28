@@ -120,7 +120,7 @@ Plotly was chosen over Matplotlib/Seaborn because it provides interactive visual
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 **1. Clone the repository**
 ```bash
@@ -165,7 +165,7 @@ plotly>=5.18.0
 
 ---
 
-## ⚠️ Limitations & Ethics
+##  Limitations & Ethics
 
 This dashboard is built on self-reported data and should be interpreted carefully:
 
@@ -179,7 +179,7 @@ Full bias disclosure is available in the **Ethics & Responsibility** page of the
 
 ---
 
-## 👤 Author
+## Author
 
 "MinThantHein" — Undergraduate student, Parami University  
 Course: Data Communication and Ethics (DATA 201)  
@@ -187,6 +187,6 @@ Academic Year: 2025–2026
 
 ---
 
-## 📄 License
+## License
 
 This project was created for academic purposes as part of a university course assessment. Data is self-reported and synthetic, created for educational use only.

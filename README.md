@@ -8,7 +8,7 @@ An interactive Streamlit dashboard tracking my undergraduate academic journey, b
 
 ## 🌐 Live App
 
-👉 **[View the Live Dashboard](https://your-app-url.streamlit.app)** *(replace with your Streamlit Cloud URL)*
+👉 **[View the Live Dashboard](https://your-app-url.streamlit.app)** 
 
 ---
 

@@ -181,7 +181,7 @@ Full bias disclosure is available in the **Ethics & Responsibility** page of the
 
 ## 👤 Author
 
-**Khant** — Undergraduate student, Parami University  
+"MinThantHein" — Undergraduate student, Parami University  
 Course: Data Communication and Ethics (DATA 201)  
 Academic Year: 2025–2026
 
